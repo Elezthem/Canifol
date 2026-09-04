@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" role="img" aria-labelledby="title">
+  <title id="title">Каніфоль</title>
+  <rect width="360" height="220" fill="#000"/>
+  <g fill="none" stroke="#fff" stroke-width="8.5" stroke-linejoin="miter" stroke-linecap="square">
+    <path d="M147 67 180 34 223 77 209 92 180 63 160 84"/>
+    <path d="M112 103 137 78 137 109 119 127 119 146 100 146 100 121 112 121Z"/>
+    <path d="M223 77 251 106 232 157 207 133Z"/>
+    <path d="M251 106 269 139 232 157"/>
+    <path d="M207 133 232 157 215 171 180 136"/>
+    <path d="M137 109 180 151"/>
+    <path d="M180 63 154 89 154 113"/>
+    <path d="M154 113 180 86"/>
+    <path d="M180 86 199 105 199 143"/>
+    <path d="M199 105 223 77"/>
+  </g>
+  <g fill="#fff">
+    <circle cx="180" cy="86" r="12"/>
+    <circle cx="180" cy="86" r="4.2" fill="#000"/>
+    <circle cx="180" cy="151" r="11.5"/>
+    <circle cx="223" cy="171" r="8"/>
+    <circle cx="199" cy="143" r="7"/>
+  </g>
+  <text x="180" y="205" text-anchor="middle"
+        font-family="Inter, Arial, sans-serif" font-size="44" font-weight="800"
+        letter-spacing="2.5" fill="#fff">КАНІФОЛЬ</text>
+</svg>
